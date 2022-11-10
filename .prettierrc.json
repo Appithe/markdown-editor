@@ -1,0 +1,15 @@
+{
+	"svelteSortOrder": "options-styles-scripts-markup",
+	"svelteStrictMode": true,
+	"svelteBracketNewLine": false,
+	"svelteAllowShorthand": true,
+	"svelteIndentScriptAndStyle": true,
+	"tabWidth": 2,
+	"printWidth": 80,
+	"useTabs": true,
+	"semi": true,
+	"bracketSpacing": true,
+	"bracketSameLine": true,
+	"arrowParens": "always",
+	"singleQuote": true
+}
